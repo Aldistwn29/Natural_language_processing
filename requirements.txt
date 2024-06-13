@@ -1,5 +1,5 @@
 streamlit
-transdormers
+transformers
 pandas
 numpy
 wordcloud
